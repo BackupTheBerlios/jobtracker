@@ -1,0 +1,113 @@
+H1 { 
+  color: #FFFFFF;
+  background: #B0B0D0;
+  text-align: center;
+}
+
+H2 {  
+  
+}
+
+DIV.footer { 
+  color: #B0B0D0;
+  text-align: right;
+  font-style: italic;
+  font-size: 70%;
+  border-top: 1px solid;
+  margin-top:3%;
+}
+
+DIV.navbar {  
+  color: #B0B0D0;
+  border-top: 1.5px solid;
+  border-bottom: 2px solid;
+//  padding-top: 1%;
+//  padding-bottom: 1.5%;
+//  text-align:right;
+}
+
+A.navbar { 
+  color: #B0B0D0;
+  text-decoration: none;
+  font-family: verdana;
+  font-size:9pt;
+  font-weight:bold;
+}
+
+TABLE.navbar,TD.navbar1 { 
+  background: #FFFFFF;
+  border:none;
+  text-align:right;
+ }
+
+TD.navbar2 { 
+  background: #FFFFFF;
+  border:none;
+  text-align:left;
+ }
+
+A.mail { 
+  text-decoration: none;
+}
+
+TABLE { 
+  border:1px solid;
+  width:100%;
+}
+
+TABLE.fichecandidature {  
+
+}
+
+TH { 
+  text-transform: uppercase; 
+  color: #E0E0E0;
+  background: #000066;
+  font-family: verdana;
+  font-size:9pt;
+  font-weight:bold;
+  width:30%;
+}
+
+TH.event { 
+  width:20%;
+}
+
+TH.doc { 
+  width:20%;
+}
+
+TD { 
+  color: #000066;
+  background: #E0E0E0;
+  width:30%;
+  font-family: verdana;
+  font-size:9pt;
+  font-weight:bold;
+}
+
+TD.label { 
+  color: #E0E0E0;
+  background: #000066;
+  font-family: verdana;
+  font-size:9pt;
+  font-weight:bold;
+  width:5%;
+  vertical-align:top;
+}
+
+TD.notesBox { 
+  width:80%;
+}
+
+TD.linkcell {  
+  background: #FFFFFF;
+}
+
+TD.notesDisplay { 
+
+}
+
+INPUT.notesBox { 
+
+}
